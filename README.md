@@ -27,7 +27,7 @@ Color-blind friendly version
 <img src="Figs/Capture2_rendering.png">
 
 #### Test the script:
-- *run python rendering.py   --[image_path] --[output_path]*
+- run *python rendering.py   --[image_path] --[output_path]*
 
 ## Disclaimer
 The code in this project is highly referred from [RGB2Colorblind](https://github.com/daijro/rgb2colorblind).
