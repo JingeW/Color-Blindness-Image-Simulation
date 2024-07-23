@@ -1,5 +1,5 @@
 # Color Blindness Image Simulation
-<img src="Figs/intro.jpg" width=400>
+<img src="Figs/Intro.jpg" width=400>
 
 After conducting further research on colorblindness simulation, I highly recommend the [DaltonLens-Python](https://github.com/DaltonLens/DaltonLens-Python) repository. The [author's blog](https://daltonlens.org/#posts) is well worth reading.
 
