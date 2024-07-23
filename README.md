@@ -1,6 +1,8 @@
 # Color Blindness Image Simulation
 <img src="Figs/intro.jpg" width=400>
 
+After conducting further research on colorblindness simulation, I highly recommend the [DaltonLens-Python](https://github.com/DaltonLens/DaltonLens-Python) repository. The [author's blog](https://daltonlens.org/#posts) is well worth reading.
+
 ## Requirements
 
 1. cv2
@@ -30,6 +32,6 @@ Color-blind friendly version
 - run *python rendering.py   --[image_path] --[output_path]*
 
 ## Disclaimer
-The code in this project is highly referred from [RGB2Colorblind](https://github.com/daijro/rgb2colorblind).
+The code in this project is revised based on [RGB2Colorblind](https://github.com/daijro/rgb2colorblind).
 
 Please refer License Information of RGB2Colorblind.
