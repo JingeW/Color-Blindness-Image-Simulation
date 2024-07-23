@@ -19,7 +19,7 @@ class ColorBlindConverter(object):
 
         self.powGammaLookup = np.power(np.linspace(0, 256, 256) / 256, 2.2)
         self.conversion_coeffs = [
-            {'cpu': 0.735, 'cpv':  0.265, 'am': 1.273463, 'ayi': -0.073894},
+            {'cpu': 0.753, 'cpv':  0.265, 'am': 1.273463, 'ayi': -0.073894},
             {'cpu': 1.140, 'cpv': -0.140, 'am': 0.968437, 'ayi':  0.003331},
             {'cpu': 0.171, 'cpv': -0.003, 'am': 0.062921, 'ayi':  0.292119}]
 
